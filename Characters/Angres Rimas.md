@@ -41,27 +41,23 @@ He is actually dead since his very young age, even tho no one understoods it exc
 A long, long story, not fully in this website yet.
 
 ## Relationships
-- [[Lily]] (friend (Vital)) ⇄ [[Angres Rimas]] (friend (Important))
-    - Lily → level 5 / 5, Frank
-    - Angres Rimas → level 2 / 4, Honest
-    - History: They both begun to know each other when [[Angres Rimas|Rimas Angres]] found the Book of the traveler
-- [[God of Death]] (contact (Important)) ⇄ [[Angres Rimas]] (minion (Vital))
-    - God of Death → level 4 / 4, Honest
-    - Angres Rimas → level 4 / 4, Honest
-    - History: The God of Death is the main God the [[Lone Protectors]] are in communication with.
-- [[Angres Adelaïde]] (Mother (Vital)) ⇄ [[Angres Rimas]] (Child (Vital))
-    - Angres Adelaïde → level -4 / -4, Subversive
-    - Angres Rimas → level -5 / -5, Subversive
-- [[Angres Ivan]] (Father (Vital)) ⇄ [[Angres Rimas]] (Child (Vital))
-    - Angres Ivan → level -5 / -5, Subversive
-    - Angres Rimas → level -5 / -5, Subversive
-- [[Angres Emilie]] (Sister (Trivial)) ⇄ [[Angres Rimas]] (Brother (Trivial))
-    - Angres Emilie → level -5 / -5, Subversive
-    - Angres Rimas → level -5 / -5, Subversive
-- [[God of War]] (Acquaintance (Trivial)) ⇄ [[Angres Rimas]] (Acquaintance (Trivial))
-    - God of War → level -5 / -5, Frank
-    - Angres Rimas → level -3 / -3, Frank
-    - History: The [[God of War]] takes [[Angres Rimas]] accountable for the current state of [[Aethernam]]. For him, [[Angres Rimas]] has the needed strength and power to fend off the creatures since a while now.
+
+```base
+filters:
+  and:
+    - '!file.inFolder("_templates")'
+    - type == "relationship"
+    - file.hasLink(this.file)
+views:
+  - type: table
+    name: Relationships
+    order:
+      - file.name
+      - first
+      - first_role
+      - second
+      - second_role
+```
 
 ## Timeline
 - [[Rimas timeline]]

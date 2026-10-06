@@ -27,6 +27,23 @@ tags: []
 
 ## Relationships
 
+```base
+filters:
+  and:
+    - '!file.inFolder("_templates")'
+    - type == "relationship"
+    - file.hasLink(this.file)
+views:
+  - type: table
+    name: Relationships
+    order:
+      - file.name
+      - first
+      - first_role
+      - second
+      - second_role
+```
+
 ## Events
 
 ```base

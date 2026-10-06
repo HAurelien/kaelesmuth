@@ -21,15 +21,23 @@ wa_id: "5c66bed6-0c3b-41e8-98c9-272896b6a481"
 **Angres**
 
 ## Relationships
-- [[Angres Adelaïde]] (Mother (Vital)) ⇄ [[Angres Rimas]] (Child (Vital))
-    - Angres Adelaïde → level -4 / -4, Subversive
-    - Angres Rimas → level -5 / -5, Subversive
-- [[Angres Ivan]] (Husband (Vital)) ⇄ [[Angres Adelaïde]] (Wife (Vital))
-    - Angres Ivan → level 4 / 4, Honest
-    - Angres Adelaïde → level 4 / 4, Honest
-- [[Angres Emilie]] (Daughter (Vital)) ⇄ [[Angres Adelaïde]] (Mother (Vital))
-    - Angres Emilie → level 0 / 0
-    - Angres Adelaïde → level 0 / 0
+
+```base
+filters:
+  and:
+    - '!file.inFolder("_templates")'
+    - type == "relationship"
+    - file.hasLink(this.file)
+views:
+  - type: table
+    name: Relationships
+    order:
+      - file.name
+      - first
+      - first_role
+      - second
+      - second_role
+```
 
 ## Events
 

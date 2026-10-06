@@ -19,7 +19,20 @@ One of the latest member of the [[Lone Protectors]]
 Current owner of the "Book of the traveller"
 
 ## Relationships
-- [[Lily]] (friend (Important)) ⇄ [[Moritemiel]] (owner (Important))
-    - Lily → level 2 / 2, Honest
-    - Moritemiel → level 4 / 4, Dishonest
-    - History: They both begun to know each other when [[Moritemiel]] got in charge of the Boof of the traveler.
+
+```base
+filters:
+  and:
+    - '!file.inFolder("_templates")'
+    - type == "relationship"
+    - file.hasLink(this.file)
+views:
+  - type: table
+    name: Relationships
+    order:
+      - file.name
+      - first
+      - first_role
+      - second
+      - second_role
+```

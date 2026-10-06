@@ -19,7 +19,20 @@ This God ascended after the Cataclysm, in 2954. Dying during a battle where his 
 He very little involve with the [[Lone Protectors]], taking [[Angres Rimas]] accountable for the state of [[Aethernam]] still being so bad after the Great Cataclysm despite the fact he believes [[Angres Rimas]] could easily fend off the creatures and free the world.
 
 ## Relationships
-- [[God of War]] (Acquaintance (Trivial)) ⇄ [[Angres Rimas]] (Acquaintance (Trivial))
-    - God of War → level -5 / -5, Frank
-    - Angres Rimas → level -3 / -3, Frank
-    - History: The [[God of War]] takes [[Angres Rimas]] accountable for the current state of [[Aethernam]]. For him, [[Angres Rimas]] has the needed strength and power to fend off the creatures since a while now.
+
+```base
+filters:
+  and:
+    - '!file.inFolder("_templates")'
+    - type == "relationship"
+    - file.hasLink(this.file)
+views:
+  - type: table
+    name: Relationships
+    order:
+      - file.name
+      - first
+      - first_role
+      - second
+      - second_role
+```

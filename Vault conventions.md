@@ -11,11 +11,11 @@ Kaelesmuth is the world; [[Aethernam]] and [[Zephyrion]] are planets in it, and 
 
 ## Folders
 
-One folder per kind of note: Characters, Gods, Places, Organizations, Species, Conditions, Items, Languages, Events, Timelines. Which planet a note belongs to is the `planet` property, not the folder. Importance (main, secondary, key) is the `importance` property.
+One folder per kind of note: Characters, Gods, Places, Organizations, Species, Conditions, Items, Languages, Events, Relationships, Timelines. Which planet a note belongs to is the `planet` property, not the folder. Importance (main, secondary, key) is the `importance` property.
 
 ## Templates
 
-Templates live in `_templates`: Character, Place, Organization, Event. Gods use the Character template with `type: god`. Every note has a `type`, which is what the lists on [[Kaelesmuth World]] are built from.
+Templates live in `_templates`: Character, Place, Organization, Event, Relationship. Gods use the Character template with `type: god`. Every note has a `type`, which is what the lists on [[Kaelesmuth World]] are built from.
 
 ## Dates
 
@@ -33,6 +33,8 @@ Each event is its own note in `Events`. It lists its `participants`, `location`,
 Links in properties are written in quotes: `species: "[[Human]]"`, `affiliations: ["[[Lone Protectors]]"]`.
 
 **Family links** go only on the child: `parents: ["[[Angres Ivan]]", "[[Angres Adelaïde]]"]`, plus `partners` on both partners. Children and siblings are worked out from `parents`, so they are never typed by hand and can't drift out of sync. A family tree is drawn from these properties.
+
+**Relationships** between two characters (friendship, rivalry, how family members feel about each other) are one note each in `Relationships`, named "A and B". The note holds each side's role, importance, attitude and honesty, plus the shared history. Both characters' "Relationships" sections list it automatically, so it is never written on the characters themselves. Family structure still lives in `parents` and `partners`.
 
 **Membership** is written once, on the character (`affiliations`), never as a member list on the organization. The organization's member list is a query over `affiliations`.
 
