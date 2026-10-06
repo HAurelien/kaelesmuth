@@ -3,7 +3,8 @@ type: "character"
 aliases:
   - "Moritemiel Rianthurin"
   - "Mori"
-planet: []
+planet:
+  - "[[Zephyrion]]"
 importance: "secondary"
 calendar: "aethernam"
 affiliations:

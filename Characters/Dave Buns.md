@@ -1,7 +1,8 @@
 ---
 type: "character"
 aliases: []
-planet: []
+planet:
+  - "[[Zephyrion]]"
 importance: "main"
 calendar: "aethernam"
 status: "draft"

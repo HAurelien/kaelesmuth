@@ -2,7 +2,8 @@
 type: "character"
 aliases:
   - "Atios Liros"
-planet: []
+planet:
+  - "[[Zephyrion]]"
 importance: "main"
 calendar: "aethernam"
 affiliations:

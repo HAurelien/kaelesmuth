@@ -30,7 +30,7 @@ wa_id: "af21da05-4bc7-4e74-814b-86e085ce018e"
 **Rimas**
 
 Rimas is one of the most important characters in Kaelesmuth.
-He has a timeline related to him : Rimas
+He has a timeline dedicated to him
 He is one of the [[Lone Protectors]]
 He is actually dead since his very young age, even tho no one understoods it except [[Arrack]] as only his parents really knew what their experiment was.
 

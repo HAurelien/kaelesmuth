@@ -2,7 +2,8 @@
 type: "character"
 aliases:
   - "Littl'"
-planet: []
+planet:
+  - "[[Zephyrion]]"
 importance: "secondary"
 species: "[[Elementary]]"
 calendar: "aethernam"
@@ -19,7 +20,7 @@ wa_id: "cd399892-46e9-4eab-a778-c714111a8356"
 
 **Lily (a.k.a. Littl')**
 
-Lily is an entity attached to the [[Book of the traveler]]. She is it's keeper since [[Dave Buns]] invoqued her to protect the book's usage after finding it.
+Lily is an entity attached to the [[Book of the traveler]]. She is it's keeper since [[Dave Buns]] invoked her to protect the book's usage after finding it.
 
 ## Relationships
 
@@ -42,4 +43,4 @@ views:
 
 ## Circumstances of Death
 
-When [[Arrack]] retreived the book, as Lily tried to prevent her from using it, she god anahilated.
+When [[Arrack]] retrieved the book, as Lily tried to prevent her from using it, she got annihilated.

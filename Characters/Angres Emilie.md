@@ -1,7 +1,8 @@
 ---
 type: "character"
 aliases: []
-planet: []
+planet:
+  - "[[Aethernam]]"
 importance: "secondary"
 species: "[[Human]]"
 sex: "Female"
