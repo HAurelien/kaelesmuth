@@ -9,7 +9,7 @@ affiliations:
   - "[[Lower gods]]"
 current_location: "[[Ether]]"
 realm: "[[Ether]]"
-place_of_death: "He died on the battlefield."
+place_of_death: "a battlefield"
 status: "draft"
 tags: []
 wa_id: "97d3f4ef-fcf9-4b70-af05-9f1cebd0470f"

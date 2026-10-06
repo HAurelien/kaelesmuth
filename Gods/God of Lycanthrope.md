@@ -4,7 +4,9 @@ aliases: []
 planet:
   - "[[Aethernam]]"
   - "[[Zephyrion]]"
-species: "[[Lycantrope]]"
+species: "[[Human]]"
+conditions:
+  - "[[Lycantrope]]"
 calendar: "aethernam"
 affiliations:
   - "[[Lower gods]]"

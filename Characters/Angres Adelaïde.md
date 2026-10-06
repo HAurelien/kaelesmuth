@@ -8,8 +8,8 @@ importance: "main"
 species: "[[Human]]"
 sex: "Female"
 gender: "Woman"
-died: 2757
-died_date: "2757-07"
+died: 2758
+died_date: "2758-01-01 01:00"
 calendar: "aethernam"
 partners:
   - "[[Angres Ivan]]"
