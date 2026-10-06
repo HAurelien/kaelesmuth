@@ -36,6 +36,8 @@ Links in properties are written in quotes: `species: "[[Human]]"`, `affiliations
 
 **Membership** is written once, on the character (`affiliations`), never as a member list on the organization. The organization's member list is a query over `affiliations`.
 
+**Organization hierarchy** is written only on the sub-organization (`parent_org`), never as a `subsidiaries` list on the parent. **Worship** is written only on the organization (`deities`), not on the god.
+
 ## Status
 
 `status` is `idea`, `draft` or `canon`.

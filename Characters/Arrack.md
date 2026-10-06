@@ -1,7 +1,9 @@
 ---
 type: "character"
 aliases: []
-planet: []
+planet:
+  - "[[Aethernam]]"
+  - "[[Zephyrion]]"
 importance: "main"
 species: "[[Ether mirror]]"
 sex: "Female"

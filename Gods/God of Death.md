@@ -8,8 +8,6 @@ species: "[[Ether mirror]]"
 calendar: "aethernam"
 affiliations:
   - "[[Lower gods]]"
-religions:
-  - "[[Lone Protectors]]"
 realm: "[[Ether]]"
 status: "canon"
 tags: []

@@ -2,7 +2,8 @@
 type: "character"
 aliases:
   - "Angres"
-planet: []
+planet:
+  - "[[Aethernam]]"
 importance: "main"
 species: "[[Human]]"
 sex: "Female"

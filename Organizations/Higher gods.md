@@ -12,8 +12,6 @@ leaders:
 founders:
   - "[[God of Space]]"
   - "[[God of Time]]"
-subsidiaries:
-  - "[[Lower gods]]"
 status: "draft"
 tags: []
 wa_id: "c5802475-6652-48e7-9b27-4d2c24a76cab"

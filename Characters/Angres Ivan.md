@@ -1,7 +1,8 @@
 ---
 type: "character"
 aliases: []
-planet: []
+planet:
+  - "[[Aethernam]]"
 importance: "main"
 calendar: "aethernam"
 partners:

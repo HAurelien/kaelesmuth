@@ -8,8 +8,6 @@ species: "[[Lycantrope]]"
 calendar: "aethernam"
 affiliations:
   - "[[Lower gods]]"
-religions:
-  - "[[Lone Protectors]]"
 status: "draft"
 tags: []
 wa_id: "d464af63-c80b-41c6-848e-b9830d380200"
