@@ -23,6 +23,7 @@ Templates live in `_templates`: Character, Place, Organization, Event, Relations
 - A more precise date goes next to it as text: `born_date: "2701-07-09"`, `date: "2758-01-01 01:00"`.
 - Every dated note says which calendar it uses: `calendar: aethernam` or `calendar: zephyrion`. The two are not converted yet (see [[Backlog]]).
 - Leave a field empty when it's unknown.
+- [[Schema]] has the exact rules for every kind of note, including spans, approximate and unknown dates, and how an event's place is written. `_tools/check_vault.py` checks them before every commit.
 
 ## Events
 

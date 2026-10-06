@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "about": "Machine-readable schema of the Kaelesmuth vault. The rules in prose, with examples and edge cases, are in 'Schema.md' at the vault root. The property tables in Schema.md are generated from this file (python3 _tools/check_vault.py --write-docs).",
+
+  "property_types": {
+    "text": "Free text.",
+    "int": "A whole number. Years are ints; years before 0 (PME) are negative.",
+    "bool": "true or false.",
+    "date": "Text 'Y', 'Y-MM', 'Y-MM-DD' or 'Y-MM-DD HH:MM'. Y may be negative. Its year must equal the year property it refines.",
+    "enum": "One of a fixed list of values.",
+    "list": "A list of free-text values.",
+    "link": "One quoted wikilink, e.g. \"[[Aethernam]]\". 'to' lists the note types it may point to.",
+    "links": "A list of quoted wikilinks. 'to' lists the note types they may point to."
+  },
+
+  "calendars": {
+    "aethernam": {"planet": "Aethernam"},
+    "zephyrion": {"planet": "Zephyrion"}
+  },
+
+  "statuses": ["idea", "draft", "canon"],
+
+  "common_properties": {
+    "type":          {"type": "enum", "required": true, "desc": "The kind of note. Decides its folder and its properties."},
+    "status":        {"type": "enum", "values_from": "statuses", "required": true, "desc": "idea, draft or canon."},
+    "aliases":       {"type": "list", "desc": "Other names the note is linked by."},
+    "tags":          {"type": "list", "desc": "Free tags."},
+    "planet":        {"type": "links", "to": ["place"], "desc": "The planet(s) the note belongs to. Both planets are listed when it belongs to both. Empty when it belongs to neither (for example the Ether)."},
+    "wa_id":         {"type": "text", "legacy": true, "desc": "WorldAnvil article id, kept from the import."},
+    "wa_merged_ids": {"type": "list", "legacy": true, "desc": "WorldAnvil ids of articles merged into this note."}
+  },
+
+  "types": {
+    "meta": {
+      "folder": "",
+      "desc": "Notes about the vault itself (home note, conventions, schema, backlog).",
+      "skip_common": ["status", "aliases", "planet", "wa_id", "wa_merged_ids"],
+      "properties": {
+        "title": {"type": "text", "legacy": true, "desc": "Title kept from the import."}
+      }
+    },
+
+    "character": {
+      "folder": "Characters",
+      "template": "Character",
+      "desc": "A person.",
+      "span": {"start": "born", "end": "died"},
+      "forbidden": {
+        "children": "Children are worked out from 'parents' on the child.",
+        "siblings": "Siblings are worked out from 'parents'.",
+        "relationships": "Relationships are notes in Relationships/."
+      },
+      "properties": {
+        "importance":   {"type": "enum", "values": ["main", "secondary", "key"], "desc": "How central the note is to the story."},
+        "species":      {"type": "link", "to": ["species"], "desc": "Species."},
+        "sex":          {"type": "text"},
+        "gender":       {"type": "text"},
+        "born":         {"type": "int", "desc": "Year of birth, in 'calendar'."},
+        "born_date":    {"type": "date", "refines": "born", "desc": "More precise birth date."},
+        "died":         {"type": "int", "desc": "Year of death, in 'calendar'. Empty while alive or unknown."},
+        "died_date":    {"type": "date", "refines": "died", "desc": "More precise death date."},
+        "calendar":     {"type": "enum", "values_from": "calendars", "desc": "Calendar of every year on this note. Required as soon as a year is set."},
+        "birthplace":   {"type": "link", "to": ["place"]},
+        "residence":    {"type": "link", "to": ["place", "item"], "desc": "Where the character lives."},
+        "affiliations": {"type": "links", "to": ["organization"], "desc": "Organizations the character belongs to. The only place membership is written."},
+        "parents":      {"type": "links", "to": ["character", "god"], "desc": "The only place family is written, with 'partners'."},
+        "partners":     {"type": "links", "to": ["character", "god"], "desc": "Written on both partners."},
+        "titles":       {"type": "list"},
+        "conditions":   {"type": "links", "to": ["condition"]},
+        "circumstances_of_birth": {"type": "link", "to": ["event"]},
+        "alignment":    {"type": "text", "legacy": true}
+      }
+    },
+
+    "god": {
+      "folder": "Gods",
+      "template": "Character",
+      "desc": "A god. Uses the Character template with type: god.",
+      "inherits": "character",
+      "forbidden": {
+        "religions": "Worship is written only on the organization ('deities')."
+      },
+      "properties": {
+        "divine_classification": {"type": "text"},
+        "realm":            {"type": "link", "to": ["place"]},
+        "current_location": {"type": "link", "to": ["place"], "legacy": true},
+        "place_of_death":   {"type": "link", "to": ["place"], "legacy": true}
+      }
+    },
+
+    "event": {
+      "folder": "Events",
+      "template": "Event",
+      "desc": "Something that happened. Written once; timelines and the Events sections of notes list it from its links.",
+      "span": {"start": "year", "end": "end_year"},
+      "properties": {
+        "year":         {"type": "int", "desc": "Year it happened, or started. Empty when unknown."},
+        "end_year":     {"type": "int", "desc": "Last year of an event that lasts several years. Empty for an event within one year."},
+        "date":         {"type": "date", "refines": "year", "desc": "More precise start date."},
+        "end_date":     {"type": "date", "refines": "end_year", "desc": "More precise end date."},
+        "approximate":  {"type": "bool", "desc": "true when year/end_year are a best guess rather than known."},
+        "calendar":     {"type": "enum", "values_from": "calendars", "desc": "Calendar the years and dates are written in. Required as soon as a year is set."},
+        "era":          {"type": "text"},
+        "event_type":   {"type": "text"},
+        "location":     {"type": "links", "to": ["place"], "desc": "Most precise place(s) it happened. Empty when unknown."},
+        "participants": {"type": "links", "to": ["character", "god", "organization", "species"]},
+        "species":      {"type": "links", "to": ["species"]},
+        "related":      {"type": "links", "to": ["*"], "desc": "Any other note involved (items, conditions, other events...)."},
+        "timelines":    {"type": "links", "to": ["timeline"]},
+        "after":        {"type": "links", "to": ["event"], "desc": "Events this one happened after. Lets undated events be ordered."},
+        "before":       {"type": "links", "to": ["event"], "desc": "Events this one happened before."}
+      }
+    },
+
+    "place": {
+      "folder": "Places",
+      "template": "Place",
+      "desc": "A location, from a room to a planet or a plane.",
+      "span": {"start": "from", "end": "until"},
+      "properties": {
+        "place_type": {"type": "text", "desc": "Planet, World, Plane of Existence, City..."},
+        "parent":     {"type": "link", "to": ["place"], "desc": "The place it is inside of."},
+        "owner":      {"type": "link", "to": ["organization", "character", "god"]},
+        "from":       {"type": "int", "desc": "Year it starts to exist, in 'calendar'."},
+        "until":      {"type": "int", "desc": "Year it stops existing, in 'calendar'."},
+        "calendar":   {"type": "enum", "values_from": "calendars"},
+        "included_organizations": {"type": "links", "to": ["organization"], "legacy": true}
+      }
+    },
+
+    "organization": {
+      "folder": "Organizations",
+      "template": "Organization",
+      "desc": "Any group, from a company to the Lower gods.",
+      "span": {"start": "founded", "end": "dissolved"},
+      "forbidden": {
+        "members": "Membership is written on the character ('affiliations').",
+        "subsidiaries": "Hierarchy is written on the sub-organization ('parent_org')."
+      },
+      "properties": {
+        "org_type":     {"type": "text"},
+        "founded":      {"type": "int"},
+        "dissolved":    {"type": "int"},
+        "calendar":     {"type": "enum", "values_from": "calendars"},
+        "headquarters": {"type": "link", "to": ["place"]},
+        "leaders":      {"type": "links", "to": ["character", "god", "organization"]},
+        "founders":     {"type": "links", "to": ["character", "god", "organization"]},
+        "parent_org":   {"type": "link", "to": ["organization"]},
+        "deities":      {"type": "links", "to": ["god"], "desc": "The only place worship is written."},
+        "capital":                {"type": "link", "to": ["place"], "legacy": true},
+        "ruling_organization":    {"type": "link", "to": ["organization"], "legacy": true},
+        "government_system":      {"type": "text", "legacy": true},
+        "power_structure":        {"type": "text", "legacy": true},
+        "head_of_state":          {"type": "link", "to": ["character", "god"], "legacy": true},
+        "head_of_government":     {"type": "link", "to": ["character", "god"], "legacy": true},
+        "controlled_territories": {"type": "links", "to": ["place"], "legacy": true},
+        "related_species":        {"type": "links", "to": ["species"], "legacy": true},
+        "official_languages":     {"type": "links", "to": ["language"], "legacy": true},
+        "alternative_names":      {"type": "list", "legacy": true},
+        "training_level":         {"type": "text", "legacy": true},
+        "veterancy_level":        {"type": "text", "legacy": true}
+      }
+    },
+
+    "relationship": {
+      "folder": "Relationships",
+      "template": "Relationship",
+      "desc": "How two characters relate. Named 'A and B'.",
+      "skip_common": ["aliases", "planet"],
+      "properties": {
+        "first":             {"type": "link", "to": ["character", "god"], "required": true},
+        "first_role":        {"type": "text"},
+        "first_importance":  {"type": "text"},
+        "first_attitude":    {"type": "text"},
+        "first_honesty":     {"type": "text"},
+        "second":            {"type": "link", "to": ["character", "god"], "required": true},
+        "second_role":       {"type": "text"},
+        "second_importance": {"type": "text"},
+        "second_attitude":   {"type": "text"},
+        "second_honesty":    {"type": "text"}
+      }
+    },
+
+    "timeline": {
+      "folder": "Timelines",
+      "desc": "A list of events. Its events say which timelines they belong to.",
+      "properties": {
+        "calendar": {"type": "enum", "values_from": "calendars"}
+      }
+    },
+
+    "species": {
+      "folder": "Species",
+      "properties": {
+        "lifespan":              {"type": "text"},
+        "average_height":        {"type": "text", "legacy": true},
+        "average_weight":        {"type": "text", "legacy": true},
+        "average_length":        {"type": "text", "legacy": true},
+        "related_organizations": {"type": "links", "to": ["organization"], "legacy": true}
+      }
+    },
+
+    "condition": {
+      "folder": "Conditions",
+      "desc": "Curses, diseases, magical states.",
+      "properties": {
+        "condition_type":   {"type": "text"},
+        "origin":           {"type": "text"},
+        "rarity":           {"type": "text"},
+        "cycle":            {"type": "text", "legacy": true},
+        "affected_species": {"type": "links", "to": ["species"]}
+      }
+    },
+
+    "item": {
+      "folder": "Items",
+      "properties": {
+        "item_type":        {"type": "text"},
+        "importance":       {"type": "enum", "values": ["main", "secondary", "key"]},
+        "current_location": {"type": "link", "to": ["place"], "legacy": true},
+        "weight":           {"type": "text", "legacy": true},
+        "dimensions":       {"type": "text", "legacy": true},
+        "base_price":       {"type": "text", "legacy": true}
+      }
+    },
+
+    "language": {
+      "folder": "Languages",
+      "properties": {}
+    }
+  }
+}

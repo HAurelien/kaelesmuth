@@ -1,5 +1,6 @@
 ---
 title: "Backlog"
+type: "meta"
 tags:
   - "vault/backlog"
 ---
