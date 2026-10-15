@@ -7,3 +7,4 @@ __pycache__/
 /.obsidian/plugins/obsidian-git/main.js
 /.obsidian/community-plugins.json
 /.gitignore
+_export/

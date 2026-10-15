@@ -18,6 +18,13 @@
     "zephyrion": {"planet": "Zephyrion"}
   },
 
+  "calendar_conversion": {
+    "about": "How years convert between calendars. Fill year_length (or orbit_radius) for every calendar and one anchor moment dated in every calendar; until then tools only compare years within one calendar. See _tools/calendars.py.",
+    "year_length":  {"aethernam": null, "zephyrion": null},
+    "orbit_radius": {"aethernam": null, "zephyrion": null},
+    "anchor":       {"aethernam": null, "zephyrion": null}
+  },
+
   "statuses": ["idea", "draft", "canon"],
 
   "common_properties": {

@@ -22,7 +22,7 @@ import unicodedata
 
 TOOLS_DIR = os.path.dirname(os.path.abspath(__file__))
 VAULT_DIR = os.path.dirname(TOOLS_DIR)
-SKIP_DIRS = {".git", ".obsidian", ".trash", "_tools", "Attachments"}
+SKIP_DIRS = {".git", ".obsidian", ".trash", "_tools", "_export", "Attachments"}
 TEMPLATES_DIR = "_templates"
 
 LINK_RE = re.compile(r"!?\[\[([^\]|#]*)(#[^\]|]*)?(\|[^\]]*)?\]\]")
