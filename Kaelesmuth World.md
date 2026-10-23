@@ -12,6 +12,8 @@ I would have set this world to private, if I had the choice.
 
 **Improvement ideas:** [[Backlog]]
 
+**How the world works:** [[Magic]]
+
 Every list below fills itself from the notes' `type` property.
 
 ## Timelines
