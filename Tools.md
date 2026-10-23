@@ -30,7 +30,16 @@ Run from the vault folder.
 
 ## Calendars
 
-Years are only compared within one calendar until the conversion between Aethernam and Zephyrion is known. The numbers go in `_tools/schema.json` under `calendar_conversion`: each planet's year length (or its distance to the star), and one moment dated in both calendars. As soon as they are filled in, every tool converts, and the export gives each date in both calendars. See [[Backlog]].
+Both planets orbit a Sun-like star inside its habitable zone, and each counts years by its own orbit. The numbers are in `_tools/schema.json` under `calendar_conversion`, and every tool converts with them.
+
+| Planet | Size | Distance to the star | Year | In Earth days |
+|---|---|---|---|---|
+| [[Aethernam]] | 0.8 Earth | 0.9 AU (inner) | 0.854 Earth years | about 312 |
+| [[Zephyrion]] | 1.1 Earth | 1.5 AU (outer) | 1.837 Earth years | about 671 |
+
+So one Zephyrion year is about 2.15 Aethernam years. At their closest the planets are 0.6 AU apart, farther than Mars ever comes to Earth, and the inner planet only ever turns its night side toward the outer one when it sits close to the star in the sky. Neither can make out the other's cities with early telescopes; radio is the first real sign, from the mid 1900s on.
+
+The two counts are lined up by one anchor: Zephyrion 1712 starts at Aethernam 2850, when Rimas reaches Zephyrion just after leaving Aethernam in 2849. Change the anchor in `schema.json` if the story places that moment differently.
 
 ## Export format
 

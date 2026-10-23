@@ -16,7 +16,8 @@ rather than re-reading the notes another way.
 Rules it follows (see Schema.md):
 - A year y covers [y, y + 1). Notes in another calendar are converted when
   _tools/calendars.py has the data, and are listed as "not comparable" when not.
-- Someone is where their latest dated event with a location put them, else at
+- Someone is where their latest dated event with a location (or only a planet)
+  put them, else at
   their residence (or a god's realm), else at their birthplace.
 - Someone with no birth year is "not yet recorded" before their first dated
   event, so an unknown birth never makes a person appear too early.
@@ -268,7 +269,7 @@ class World:
             if not self.comparable(ev):
                 continue
             lo, hi = self.interval(ev)
-            locs = self.links(ev, "location")
+            locs = self.links(ev, "location") or [p for p in self.links(ev, "planet") if p in self.planets]
             if lo is None or lo >= year + 1 - EPS or not locs:
                 continue
             if best is None or self.sort_key(ev) >= self.sort_key(best[0]):

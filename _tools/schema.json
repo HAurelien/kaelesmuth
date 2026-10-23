@@ -20,9 +20,10 @@
 
   "calendar_conversion": {
     "about": "How years convert between calendars. Fill year_length (or orbit_radius) for every calendar and one anchor moment dated in every calendar; until then tools only compare years within one calendar. See _tools/calendars.py.",
-    "year_length":  {"aethernam": null, "zephyrion": null},
-    "orbit_radius": {"aethernam": null, "zephyrion": null},
-    "anchor":       {"aethernam": null, "zephyrion": null}
+    "unit_notes": "Sun-like star. year_length in Earth years (Kepler: orbit_radius^1.5), orbit_radius in AU. Aethernam (0.8 Earth size, the cataclysm planet) is the inner one at 0.9 AU: 0.854 Earth years, about 312 Earth days. Zephyrion (1.1 Earth size) at 1.5 AU: 1.837 Earth years, about 671 Earth days. Closest approach 0.6 AU, farther than Mars ever comes to Earth. Anchor: Rimas reaches Zephyrion just after leaving Aethernam in 2849.",
+    "year_length":  {"aethernam": 0.854, "zephyrion": 1.837},
+    "orbit_radius": {"aethernam": 0.9, "zephyrion": 1.5},
+    "anchor":       {"aethernam": 2850, "zephyrion": 1712}
   },
 
   "statuses": ["idea", "draft", "canon"],
