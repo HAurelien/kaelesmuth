@@ -38,6 +38,7 @@ The [[Higher gods]] are not mirrors. They come from far more advanced civilisati
 
 - **Energy is conserved.** A spell never releases more energy than the mana spent on it. One brain only produces a trickle, so a lone caster's magic is small.
 - **Overdrawing burns the caster.** Pushing past one's stored mana draws on the nervous system itself. Those who overuse magic, or have it taken from them, can die of it (see [[Vampirism]]).
+- **Attunement varies.** How well someone controls mana depends on how their brain is wired from birth. A few people, one in a billion, are attuned so well that they can cast even with the scarce mana the Pillar leaves them (the [[God of Nature]] was one).
 - **Large effects need pooled mana:** a god's gift, worship, or tools that harvest mana from other creatures.
 - **Every cast leaves a trace** of the caster's [[Aura]] on its target.
 
@@ -47,7 +48,9 @@ Mana that is not drained builds up in the environment. In high concentration it 
 
 ## History of magic on Aethernam
 
-Under the Pillar, people kept too little mana to cast on their own. Before [[The incident]] (2753), magic only reached them as gifts sent by gods through their mirrors: [[God of Humankind|Absalom the First]], the sorceress who became the [[Goddess of Hope]], the first vampires. [[The incident]] is the first time a human cast magic with no god behind it, which is why it counts as the discovery of magic.
+Under the Pillar, people kept too little mana to cast on their own. Before [[The incident]] (2753), magic only reached them as gifts sent by gods through their mirrors ([[God of Humankind|Absalom the First]], the sorceress who became the [[Goddess of Hope]], the vampires), or through the rare one-in-a-billion attuned, and was taken for miracles. [[The incident]] is when magic was discovered as such.
+
+There is usually one [[Pillar]] per star system. Aethernam's was moved to [[Zephyrion]] after [[The Great Cataclysm]], so it would not stay on a scorched planet ruled by monsters.
 
 ## Arrack
 

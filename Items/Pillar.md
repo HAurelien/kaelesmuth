@@ -30,7 +30,7 @@ The manifacturing process in only known by a few of the remaining [[Shinit]]
 
 ## Rarity
 
-This is the only one in both [[Aethernam]] and [[Zephyrion]].
+There is usually only one Pillar per star system. This is the only one in both [[Aethernam]] and [[Zephyrion]]. It used to stand on [[Aethernam]], and was moved to [[Zephyrion]] after [[The Great Cataclysm]], since leaving it in the long run on a scorched planet mostly ruled by monsters would have been too dangerous.
 
 ## Raw materials & Components
 

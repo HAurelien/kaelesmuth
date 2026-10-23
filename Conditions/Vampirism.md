@@ -46,8 +46,8 @@ There is no way to prevent it as far as we know. However, a powerful entity such
 
 ### History
 
-They appeared around 1708, children of the [[God of Eldritch creatures]], in [[Aethernam]].
-[[Angres Rimas]] was one of them, one of the very few newborn.
+They appeared around 1708, children of the [[God of Eldritch creatures]], in [[Aethernam]]. It took a few centuries of trials from him to stabilise a creature that is both sentient and survives long enough to develop.
+Vampires born as such stay very rare. [[Angres Rimas]], whose parents are vampires, is one of these few newborn vampires.
 
 ### Cultural Reception
 
