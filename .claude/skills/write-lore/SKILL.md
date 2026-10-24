@@ -43,6 +43,16 @@ Let the user decide how to resolve each conflict. Don't change existing lore on 
 
 If calendars differ and the query says conversion isn't available yet, say that the two calendars can't be compared yet, so cross-planet timing is unchecked.
 
+### Older dates across the two planets
+
+Everything written before 2026-10-23 (the WorldAnvil import, the user's older notes, chats they paste) was built as if a Zephyrion year and an Aethernam year had the same length. They don't: one Zephyrion year is about 2.15 Aethernam years (see `Tools.md`). So older material can hide mismatches:
+
+- durations on Zephyrion ("a century", "90 years later") may have been thought of in Aethernam-length years, and so be about twice too long once read in Zephyrion years;
+- events that were meant to happen "at the same time" or "shortly after" on the two planets may no longer line up once converted;
+- a Zephyrion date copied from older material may sit before or after an Aethernam event it was supposed to follow or precede.
+
+Whenever new lore uses an older Zephyrion date or span, or links events on both planets, convert both ways (`world_at.py` prints the ≈ other-calendar year), check the order and gaps against the linked events on the other planet, and flag each mismatch to the user with the years in both calendars and a suggested fix (usually moving the less established date). Never rescale old dates on your own: the user decides. Example: on 2026-10-24 The Silence became 1669 to about 1745 in Zephyrion years, and Rimas's departure from Aethernam moved from 2849 to 2913, for this reason.
+
 ## 3. Write the notes
 
 - Start from the template in `_templates/` (Character for gods too, with `type: god`). Keep every property the template has, even empty.
