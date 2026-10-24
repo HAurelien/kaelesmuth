@@ -23,7 +23,7 @@ The west of the country is covered in desert, so its food depends heavily on fis
 
 ## History
 
-### In the time of Alexendre X
+### Around 1100 (time of Alexendre X)
 
 Its alliance with [[Tostep]] is starting to crumble as the country recovers from its intensive, exhausting war economy, now that [[Thoear]] has collapsed. See [[Fall of Thoear]].
 

@@ -23,7 +23,7 @@ Between the wood of [[Calindor]] to the south and the [[Frostjárnafjöll]] moun
 
 ## History
 
-### In the age of war
+### In the age of war (before Absalom the First)
 
 A solid foothold to attack the city of [[Naridor]]. It pushed back several attacks from Naridor during the last decade.
 

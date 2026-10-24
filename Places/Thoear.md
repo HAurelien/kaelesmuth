@@ -24,7 +24,7 @@ The south-eastern peninsula of the [[Aethernam main continent|main continent]].
 
 ## History
 
-### In the time of Alexendre X
+### Around 1100 (time of Alexendre X)
 
 The lordships are gaining more and more weight under the influence of [[Tostep]] and of what remains of the confederation of [[Starala]]. The army, with no reinforcements at all, can no longer hold the hierarchy together, and the legitimacy of Uril III and his line is wavering. See [[Fall of Thoear]].
 

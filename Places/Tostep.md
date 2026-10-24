@@ -24,7 +24,7 @@ Its lands in the west hold high-quality wood.
 
 ## History
 
-### In the time of Alexendre X
+### Around 1100 (time of Alexendre X)
 
 Its ruler, Alexendre X, has lately been much talked about, mostly badly. Some say he is slowly losing his mind, but the monarchy still seems to be doing well.
 

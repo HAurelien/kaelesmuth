@@ -16,7 +16,7 @@ tags: []
 
 ## Summary
 
-A confederation of which only remnants are left in the time of Alexendre X of [[Tostep]]. Those remnants influence the lordships of [[Thoear]].
+A confederation of which only remnants are left around 1100, in the time of Alexendre X of [[Tostep]]. Those remnants influence the lordships of [[Thoear]].
 
 ## Geography
 

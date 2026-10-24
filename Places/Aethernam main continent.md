@@ -16,7 +16,7 @@ tags: []
 
 ## Summary
 
-The main continent of [[Aethernam]]. Lore set here so far comes from the dark age, long before year 0.
+The main continent of [[Aethernam]]. Lore set here so far comes from two periods: the age of war in the dark age, before Absalom the First (the future [[God of Humankind]]) took power, and the kingdoms of around 1100, in the breakthrough era.
 
 ## Geography
 

@@ -18,7 +18,7 @@ tags: []
 
 ## Summary
 
-The other clan fighting over the village of [[Sovnar]], in the age of war.
+The other clan fighting over the village of [[Sovnar]], in the age of war, in the dark age before Absalom the First (the future [[God of Humankind]]) took power.
 
 ## Purpose
 

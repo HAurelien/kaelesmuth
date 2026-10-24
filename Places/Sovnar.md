@@ -15,7 +15,7 @@ tags: []
 
 ## Summary
 
-A small village in the north, prey to frequent fighting between two clans, the [[Vallebord clan]] and the [[Amtras clan]].
+A small village north of [[StormHold]], in the east of the continent, prey to frequent fighting between two clans, the [[Vallebord clan]] and the [[Amtras clan]].
 
 ## Geography
 
@@ -23,7 +23,7 @@ A small village in the north, prey to frequent fighting between two clans, the [
 
 ## History
 
-### In the age of war
+### In the age of war (before Absalom the First)
 
 The Amtras clan wants it to open a trade route to [[StormHold]]; the Vallebord clan disputes it.
 

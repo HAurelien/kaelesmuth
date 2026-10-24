@@ -20,11 +20,11 @@ A very old city on a hill, often used as the capital of regional governments, an
 
 ## Geography
 
-On a hill, with the small forest of [[Iverald]] to the north and the sea to the east.
+In the east of the [[Aethernam main continent|main continent]], on a hill, with the small forest of [[Iverald]] to the north and the sea to the east.
 
 ## History
 
-### In the age of war
+### In the age of war (before Absalom the First)
 
 Life there is hard. Food shortages are common, and the only large source of drinking water becomes unreachable or polluted for days every year during the storm season. People then rely on wells dug inside the city, not enough for everyone, or on rainwater when it isn't carrying a strange reddish sand.
 

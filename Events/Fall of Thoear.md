@@ -2,15 +2,15 @@
 type: event
 aliases:
   - "War against Thoear"
-year: 
-end_year: 
+year: 1100
+end_year: 1100
 date: 
 end_date: 
-approximate: false
+approximate: true
 calendar: aethernam
 planet:
   - "[[Aethernam]]"
-era: "The dark age"
+era: "The breakthrough"
 event_type: War
 location:
   - "[[Thoear]]"
