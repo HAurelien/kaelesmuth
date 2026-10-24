@@ -19,5 +19,7 @@ Magic has been freed in the world since the events of the Great Cataclysm by the
 ## Maps
 ![[fd29c1eae4fa3b64c4561a454b720769.jpg]]
 
+This is Zephyrion's map. Its title says "Aethernam" because Aethernam used to be the name of the whole world, before it became Kaelesmuth.
+
 ## Timeline
 - [[Zephyrion main timeline]]
