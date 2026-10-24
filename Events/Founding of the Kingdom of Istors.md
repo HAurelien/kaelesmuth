@@ -9,7 +9,7 @@ approximate: false
 calendar: zephyrion
 planet:
   - "[[Zephyrion]]"
-era: "The Silence"
+era: 
 event_type: 
 location: 
   - "[[Kingdom of Istors]]"

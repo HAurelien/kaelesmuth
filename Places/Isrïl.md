@@ -6,7 +6,7 @@ aliases:
   - "Isril"
 planet:
   - "[[Zephyrion]]"
-place_type: Country
+place_type: Island
 parent: "[[Zephyrion]]"
 owner: 
 from: 
@@ -18,7 +18,7 @@ tags: []
 
 ## Summary
 
-The free confederation of the two main native clans, Astaril in the north and Outragonout in the south. Fairly well organised, and quickly gaining ground on [[Grueca]] these last years.
+The free confederation of the two main native clans, Astaril in the north and Outragonout in the south. It holds an island that [[Grueca]] once ruled, half-officially, through its own nation, and that broke free during the Century of Silence. Fairly well organised, and quickly gaining ground on Grueca these last years.
 
 ## Geography
 
@@ -27,6 +27,8 @@ Not very fertile land.
 ## History
 
 ### In 1750
+
+Part of the island is still under Grueca's control.
 
 Rumours speak of an alliance with [[Tutsana]] that lets it keep its population fed despite its poor land. The people strongly support the freedom the two leaders decided to take, and the leaders are said to often be on the battlefield themselves.
 

@@ -21,7 +21,7 @@ A young, warlike kingdom, ruled by the Istors family, formerly the dynasty that 
 
 ## Geography
 
-Made of the old kingdom of [[Ugrya]], whose border stopped at the mountain chain, and [[Eastern Tutsana]], the richest region of the old Tutsana. A mountain chain runs through its north; [[Haullater]] lies straight west of it.
+Made of the old kingdom of [[Ugrya]], whose border stopped at the mountain chain, and [[Eastern Tutsana]], the richest region of the old Tutsana. A mountain chain runs through its north; [[Haullater]], the kingdom's second largest city, lies straight west of it.
 
 ## History
 

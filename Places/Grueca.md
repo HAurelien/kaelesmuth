@@ -23,7 +23,7 @@ By far the largest country in the world by area, with the most imposing fortifie
 
 ## History
 
-Its traditional fascination with science made it the first to cross the seas, and it quickly took control of the regions of the south and east that had no modern civilisation yet. In the old days each of those two continents was ruled by its own nation, whose strings Grueca half-officially pulled. Since the Century of Silence the cards have been reshuffled, and the country's endless military effort to take back these two newly independent lands is wearing it out.
+Its traditional fascination with science made it the first to cross the seas, and it quickly took control of the islands of the south and east that had no modern civilisation yet, [[Isrïl]] and [[Maraha]]. In the old days each of those two islands was ruled by its own nation, whose strings Grueca half-officially pulled. Since the Century of Silence the cards have been reshuffled, and the country's endless military effort to take back these two newly independent lands is wearing it out.
 
 The royal family survived the Century of Silence only through two second cousins, so internal political battles still rage over whether the Sianan or the Milirah will finally take power. Until some crucial element settles it, the claimants of both dynasties rule the country together, in a chemistry that sometimes proves questionable.
 

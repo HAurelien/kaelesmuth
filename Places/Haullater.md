@@ -4,7 +4,7 @@ aliases: []
 planet:
   - "[[Zephyrion]]"
 place_type: City
-parent: "[[Zephyrion]]"
+parent: "[[Kingdom of Istors]]"
 owner: 
 from: 
 until: 
@@ -15,7 +15,7 @@ tags: []
 
 ## Summary
 
-A big city, the second of its country for trade and the fourth for population (as of 1750).
+A big city, the second largest of the [[Kingdom of Istors]] (as of 1750). An older note ranks it second for trade and fourth for population in the country.
 
 ## Geography
 
