@@ -39,7 +39,7 @@ Both planets orbit a Sun-like star inside its habitable zone, and each counts ye
 
 So one Zephyrion year is about 2.15 Aethernam years. At their closest the planets are 0.6 AU apart, farther than Mars ever comes to Earth, and the inner planet only ever turns its night side toward the outer one when it sits close to the star in the sky. Neither can make out the other's cities with early telescopes; radio is the first real sign, from the mid 1900s on.
 
-The two counts are lined up by one anchor: Zephyrion 1712 starts at Aethernam 2850, when Rimas reaches Zephyrion just after leaving Aethernam in 2849. Change the anchor in `schema.json` if the story places that moment differently.
+The two counts are lined up by one anchor: Zephyrion 1742 starts at Aethernam 2914, when Rimas reaches Zephyrion just after leaving Aethernam in 2913. With this anchor the Great Cataclysm (Aethernam 2758) falls in Zephyrion 1669. Change the anchor in `schema.json` if the story places that moment differently.
 
 ## Export format
 

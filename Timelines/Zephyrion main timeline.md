@@ -39,9 +39,9 @@ During this era, false religions took much power upon the world. Latest scientif
 
 ### The Silence
 
-*1669 and beyond*
+*1669 → about 1745*
 
-Also called the Century of Silence. It is the side-effect on Zephyrion of the curse of [[The Great Cataclysm]] (1669 here), much less harsh than on [[Aethernam]] but still felt. During this Era, magic appeared in the world. Almost spontaneously, because of the firsts unstable and underestimated effects of Magic, the world's population almost halved. However, as humans tried to understand what was happening, the [[Lower gods|The lower gods]] seemed to appear from nowhere, imposing themselves as the true gods. (Need to create an entry with the apparition date of the gods to sort out which ones where there at this moment)
+Also called the Century of Silence, though it lasted about 76 Zephyrion years. It ended shortly after [[Angres Rimas]] arrived in 1742 and cleared the creatures. It is the side-effect on Zephyrion of the curse of [[The Great Cataclysm]] (1669 here), much less harsh than on [[Aethernam]] but still felt. During this Era, magic appeared in the world. Almost spontaneously, because of the firsts unstable and underestimated effects of Magic, the world's population almost halved. However, as humans tried to understand what was happening, the [[Lower gods|The lower gods]] seemed to appear from nowhere, imposing themselves as the true gods. (Need to create an entry with the apparition date of the gods to sort out which ones where there at this moment)
 Another funny information about this age is that an important element of the star map changed. This is something very well documented as stars were very important in navigation in this era. Lots of ships had accident before new and accurate star maps could be drawn, including the alteration of a star's trajectory. Even if we all know now it is and never was actually a Star.
 
 ## Events

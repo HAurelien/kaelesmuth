@@ -28,7 +28,7 @@ An island.
 
 Like [[Isrïl]], it is one of the two islands Grueca once ruled half-officially. It jumped at the chance offered by its neighbours' war (with [[Grueca]]) to win its own independence too.
 
-### In 1750
+### In 1770
 
 Part of the island is still under Grueca's control.
 

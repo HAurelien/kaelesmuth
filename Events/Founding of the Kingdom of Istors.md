@@ -21,6 +21,7 @@ timelines:
   - "[[Zephyrion main timeline]]"
 after: 
   - "[[Tutsana slave revolt]]"
+  - "[[End of the cataclysm's effects because of Rimas's discovery of portals]]"
 before: []
 status: draft
 tags: []
@@ -28,7 +29,7 @@ tags: []
 
 ## Summary
 
-Under pressure from [[Grueca]], Western and Eastern Tutsana were forcibly split. Western Tutsana became [[Tutsana]], and [[Eastern Tutsana]], where the capital was, merged with [[Ugrya]] by marriage, which gave the [[Kingdom of Istors]]. Recent as of 1750.
+Under pressure from [[Grueca]], Western and Eastern Tutsana were forcibly split. Western Tutsana became [[Tutsana]], and [[Eastern Tutsana]], where the capital was, merged with [[Ugrya]] by marriage, which gave the [[Kingdom of Istors]]. After the Silence, recent as of 1770.
 
 ## What happened
 

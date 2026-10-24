@@ -29,7 +29,7 @@ Before magic appeared, this region of the world was mostly made of slaves, ruled
 
 Under pressure from [[Grueca]], Tutsana was split: the west became today's Tutsana, and the east joined [[Ugrya]] as the [[Kingdom of Istors]].
 
-### In 1750
+### In 1770
 
 Its large farmlands recently let it negotiate a peace with Grueca that it hopes will last. Apparently there are no more slaves in Tutsana. Rumours say it is allied with [[Isrïl]], helping the confederation feed its people.
 

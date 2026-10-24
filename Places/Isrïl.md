@@ -26,7 +26,7 @@ Not very fertile land.
 
 ## History
 
-### In 1750
+### In 1770
 
 Part of the island is still under Grueca's control.
 

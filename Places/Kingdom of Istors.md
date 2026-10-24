@@ -25,11 +25,11 @@ Made of the old kingdom of [[Ugrya]], whose border stopped at the mountain chain
 
 ## History
 
-Founded recently (before 1750), when [[Grueca]] forced the split of Western and Eastern Tutsana and Eastern Tutsana was absorbed into Ugrya by marriage. See [[Founding of the Kingdom of Istors]].
+Founded recently (before 1770), when [[Grueca]] forced the split of Western and Eastern Tutsana and Eastern Tutsana was absorbed into Ugrya by marriage. See [[Founding of the Kingdom of Istors]].
 
 Each half carries a heavy past. The old Ugrya is held responsible for the Century of Silence, which the gods say is directly linked to the opening of the gates of the [[City of Oubralet]]. Eastern Tutsana was the seat of Tutsana's administration, responsible among other things for the massacre of [[Miari]] during Western Tutsana's attempt to take power.
 
-### In 1750
+### In 1770
 
 Because the kingdom has monopolised the continent's biggest mines since the alliance, the other countries fear a rise in the price of rare metals, so despite its warlike nature it still seems to have many days ahead of it.
 

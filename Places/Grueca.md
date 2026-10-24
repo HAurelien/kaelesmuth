@@ -29,7 +29,7 @@ The royal family survived the Century of Silence only through two second cousins
 
 After the Silence, its failed rebuilding together with [[Ugrya]] gave rise to [[Oubralet]]. It forced the split of [[Tutsana]] and [[Eastern Tutsana]].
 
-### In 1750
+### In 1770
 
 Recently signed a peace, hoped to last, with [[Tutsana]]. Losing ground to [[Isrïl]], and fighting [[Maraha]].
 

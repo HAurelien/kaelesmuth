@@ -15,7 +15,7 @@ tags: []
 
 ## Summary
 
-A big city, the second largest of the [[Kingdom of Istors]] (as of 1750). An older note ranks it second for trade and fourth for population in the country.
+A big city, the second largest of the [[Kingdom of Istors]] (as of 1770). An older note ranks it second for trade and fourth for population in the country.
 
 ## Geography
 
