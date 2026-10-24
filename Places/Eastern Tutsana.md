@@ -21,11 +21,12 @@ The richest region of the old [[Tutsana]], now part of the [[Kingdom of Istors]]
 
 ## Geography
 
+The eastern part of the old [[Tutsana]], across the desert from the west. It holds the mines of the east and south, guarded on the [[Ugrya]] side by imposing mountains. [[Haullater]] lies here, west of the mountain chain.
 
 
 ## History
 
-The whole government of Tutsana sat here, including the capital. Its administration was responsible for the massacre of [[Miari]] during Western Tutsana's attempt to take power. Under pressure from [[Grueca]] it was split from Western Tutsana and merged by marriage with [[Ugrya]], forming the [[Kingdom of Istors]].
+The whole government of Tutsana sat here, including the capital and King Istors (later remembered as Istors I, last king of Tutsana). Before the Silence it was better armed and richer than the west, which it ruled through intendants. Its administration was responsible for the massacre of [[Miari]] during Western Tutsana's attempt to take power. Under pressure from [[Grueca]] it was split from Western Tutsana and merged by marriage with [[Ugrya]], forming the [[Kingdom of Istors]].
 
 ## Notable places
 

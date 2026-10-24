@@ -4,7 +4,7 @@ aliases: []
 planet:
   - "[[Zephyrion]]"
 place_type: City
-parent: "[[Kingdom of Istors]]"
+parent: "[[Eastern Tutsana]]"
 owner: 
 from: 
 until: 
