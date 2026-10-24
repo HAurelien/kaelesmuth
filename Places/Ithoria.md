@@ -6,7 +6,7 @@ aliases:
 planet:
   - "[[Aethernam]]"
 place_type: Kingdom
-parent: "[[Eastern continent]]"
+parent: "[[Aethernam main continent]]"
 owner: 
 from: 
 until: 
@@ -21,7 +21,7 @@ By far the most populous and largest kingdom. Its power is centralised in its va
 
 ## Geography
 
-Covers most of the [[Eastern continent]]. Rich mines in the north; fertile fields in its greener regions. [[Jovinia]] lies on its north coast and [[Calindor]] to the south-east.
+Covers most of the [[Aethernam main continent]]. Rich mines in the north; fertile fields in its greener regions. [[Jovinia]] lies on its north coast and [[Calindor]] to the south-east.
 
 ## History
 

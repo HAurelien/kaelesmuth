@@ -2,8 +2,8 @@
 type: event
 aliases:
   - "War against Thoear"
-year: 1100
-end_year: 1100
+year: 1300
+end_year: 1300
 date: 
 end_date: 
 approximate: true

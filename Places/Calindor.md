@@ -4,7 +4,7 @@ aliases: []
 planet:
   - "[[Aethernam]]"
 place_type: Theocracy
-parent: "[[Eastern continent]]"
+parent: "[[Aethernam main continent]]"
 owner: 
 from: 
 until: 
@@ -19,7 +19,7 @@ The remnant of a once formidable theocracy, devoted to a long-forgotten deity ca
 
 ## Geography
 
-The south-east of the [[Eastern continent]], next to [[Ithoria]].
+The south-east of the [[Aethernam main continent]], next to [[Ithoria]].
 
 ## History
 

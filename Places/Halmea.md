@@ -19,7 +19,7 @@ A land in chronic instability. For the past two decades no government has kept c
 
 ## Geography
 
-An island south of the [[Eastern continent]], with permafrost in its western regions and no mineral resources, which makes it unattractive to invaders.
+An island south of the [[Aethernam main continent]], with permafrost in its western regions and no mineral resources, which makes it unattractive to invaders.
 
 ## History
 

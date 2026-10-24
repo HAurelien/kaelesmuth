@@ -5,7 +5,7 @@ aliases:
 planet:
   - "[[Aethernam]]"
 place_type: Kingdom
-parent: "[[Aethernam main continent]]"
+parent: "[[Western continent]]"
 owner: 
 from: 
 until: 
@@ -16,7 +16,7 @@ tags: []
 
 ## Summary
 
-A kingdom in the north-east of the [[Aethernam main continent|main continent]]. Thanks to its alliance with [[Tostep]], it has the most formidable navy in the world and a significant land army.
+A kingdom in the north-east of the [[Western continent]]. Thanks to its alliance with [[Tostep]], it has the most formidable navy in the world and a significant land army.
 
 ## Geography
 

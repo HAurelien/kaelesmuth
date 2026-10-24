@@ -5,7 +5,7 @@ aliases:
 planet:
   - "[[Aethernam]]"
 place_type: Kingdom
-parent: "[[Aethernam main continent]]"
+parent: "[[Western continent]]"
 owner: 
 from: 
 until: 
@@ -16,11 +16,11 @@ tags: []
 
 ## Summary
 
-A kingdom in the south of the [[Aethernam main continent|main continent]]. A relatively poor sovereignty with a modest army in 1243; around 1100 (time of Alexendre X) it is crushed onto its peninsula and tearing itself apart.
+A kingdom in the south of the [[Western continent]]. A relatively poor sovereignty with a modest army in 1243; around 1300 (time of Alexendre X) it is crushed onto its peninsula and tearing itself apart.
 
 ## Geography
 
-The south-eastern peninsula of the [[Aethernam main continent|main continent]].
+The south-eastern peninsula of the [[Western continent]].
 
 ## History
 
@@ -32,7 +32,7 @@ It trades a lot with [[Tostep]], the [[Stalaras Confederation]] and [[Halmea]]; 
 
 Its food production is often disrupted by natural disasters, but recent advances in agricultural research have greatly improved it, and the population is growing fast.
 
-### Around 1100 (time of Alexendre X)
+### Around 1300 (time of Alexendre X)
 
 The lordships are gaining more and more weight under the influence of [[Tostep]] and of what remains of the confederation of [[Stalaras Confederation]]. The army, with no reinforcements at all, can no longer hold the hierarchy together, and the legitimacy of Uril III and his line is wavering. See [[Fall of Thoear]].
 

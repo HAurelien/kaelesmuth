@@ -2,6 +2,7 @@
 type: place
 aliases: 
   - "Main continent"
+  - "Eastern continent"
 planet:
   - "[[Aethernam]]"
 place_type: Continent
@@ -10,19 +11,19 @@ owner:
 from: 
 until: 
 calendar: aethernam
-status: idea
+status: draft
 tags: []
 ---
 
 ## Summary
 
-The main continent of [[Aethernam]]. Lore set here so far comes from two periods: the age of war in the dark age, before Absalom the First (the future [[God of Humankind]]) took power, and the kingdoms of around 1100, in the breakthrough era.
+The main continent of [[Aethernam]]: one of its two huge continents, east of the [[Western continent]], and the most developed. Home to [[Ithoria]], [[Jovinia]] and [[Calindor]]. Its real name isn't recorded yet.
+
+It is also where the age of war took place, in the dark age before Absalom the First (the future [[God of Humankind]]) took power: [[StormHold]] and [[Sovnar]] are in its east.
 
 ## Geography
 
-The western of the two large landmasses on the map ![[Aethernam countries 1243.png]]
-
-Desert in the west ([[Cliphetoristu]]), [[Ichtar]] in the north-east, [[Thoear]] in the south, and the mountainous peninsula of [[Tostep]] to the north-east.
+Snowy in the north and along its west coast. [[Ithoria]] covers most of it, with [[Jovinia]] on the north coast and [[Calindor]] in the south-east.
 
 ## History
 
@@ -30,11 +31,9 @@ Desert in the west ([[Cliphetoristu]]), [[Ichtar]] in the north-east, [[Thoear]]
 
 ## Notable places
 
-- [[Tostep]]
-- [[Ichtar]]
-- [[Kyrith]]
-- [[Cliphetoristu]]
-- [[Thoear]]
+- [[Ithoria]]
+- [[Jovinia]]
+- [[Calindor]]
 - [[StormHold]]
 - [[Naridor]]
 - [[Sovnar]]

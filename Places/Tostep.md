@@ -5,7 +5,7 @@ aliases:
 planet:
   - "[[Aethernam]]"
 place_type: Country
-parent: "[[Aethernam main continent]]"
+parent: "[[Western continent]]"
 owner: 
 from: 
 until: 
@@ -30,7 +30,7 @@ Like most countries in this world, the kingdom is led by a king, Alexender VII. 
 
 It is also where the reported death rate of slaves is highest: the mines are extremely profitable for their owners but dangerous to work in. [[Ithoria]] covets its rich mountains, and [[Jovinia]]'s navy acts as a buffer between them; slaves from [[Calindor]] reach Tostep through Ithoria.
 
-### Around 1100 (time of Alexendre X)
+### Around 1300 (time of Alexendre X)
 
 Its ruler, Alexendre X, has lately been much talked about, mostly badly. Some say he is slowly losing his mind, but the monarchy still seems to be doing well.
 

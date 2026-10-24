@@ -19,7 +19,7 @@ An archipelago with no clear central leader, largely influenced or controlled by
 
 ## Geography
 
-East of the [[Eastern continent]].
+East of the [[Aethernam main continent]].
 
 ## History
 

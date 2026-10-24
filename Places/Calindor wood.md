@@ -16,7 +16,7 @@ tags: []
 
 ## Summary
 
-A wood south of [[Valmar]], in the age of war. Possibly the same land as the later theocracy of [[Calindor]] (to confirm).
+A wood south of [[Valmar]], in the age of war. Probably the same land as the later theocracy of [[Calindor]], in the south-east of the same continent (to confirm).
 
 ## Geography
 

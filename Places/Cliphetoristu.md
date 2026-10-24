@@ -4,7 +4,7 @@ aliases: []
 planet:
   - "[[Aethernam]]"
 place_type: Country
-parent: "[[Aethernam main continent]]"
+parent: "[[Western continent]]"
 owner: 
 from: 
 until: 
@@ -19,7 +19,7 @@ A country whose political landscape stays fairly obscure to foreigners.
 
 ## Geography
 
-The west of the main continent. Much of the country is desert, so its food depends heavily on fishing along the west coast and farming in the east. It is divided into three regions:
+The west of the [[Western continent]]. Much of the country is desert, so its food depends heavily on fishing along the west coast and farming in the east. It is divided into three regions:
 
 - **Western region**: lives from fishing, and stays fairly isolated from the war behind the vast desert, a natural barrier. When it can, it ships food and resources to the east.
 - **Eastern region**: lives under constant threat of war. Its people are prepared and trained for combat, and many small villages are fortified and barricaded. The cities, especially those built around oases in the centre of the region, are often empty, kept as retreat points when battles are lost in the open field. Its people know the land and how to survive in the desert, so they outsmart and outlast attackers who venture there, and some of these fortresses are said to be virtually impossible to besiege. Chief city: [[Kyrith]].
@@ -43,7 +43,7 @@ Cliphetoristu had been regaining strength after the [[Assassination of the king 
 
 Apart from the war, little is known about this land, which gives rise to many strange, exaggerated and occult stories.
 
-### Around 1100 (time of Alexendre X)
+### Around 1300 (time of Alexendre X)
 
 Its alliance with [[Tostep]] is starting to crumble as the country recovers from its intensive, exhausting war economy, now that [[Thoear]] has collapsed. See [[Fall of Thoear]].
 

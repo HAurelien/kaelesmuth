@@ -21,7 +21,7 @@ tags: []
 
 A relatively weak and unassuming confederation, stranded on a vast island in the south-west.
 
-Around 1100 (time of Alexendre X of [[Tostep]]) only remnants of it are left, and they influence the lordships of [[Thoear]].
+Around 1300 (time of Alexendre X of [[Tostep]]) only remnants of it are left, and they influence the lordships of [[Thoear]].
 
 ## Geography
 

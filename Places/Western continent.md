@@ -15,11 +15,13 @@ tags: []
 
 ## Summary
 
-The large continent east of the [[Aethernam main continent|main continent]] on the map, home to [[Ithoria]], [[Jovinia]] and [[Calindor]]. Its real name isn't recorded yet.
+One of the two huge continents of [[Aethernam]], west of the [[Aethernam main continent|main continent]]. Less developed than the main continent.
 
 ## Geography
 
-Snowy in the north and along its west coast. [[Ithoria]] covers most of it, with [[Jovinia]] on the north coast and [[Calindor]] in the south-east.
+The western of the two huge continents on the map ![[Aethernam countries 1243.png]]
+
+Desert in the west ([[Cliphetoristu]]), [[Ichtar]] in the north-east, [[Thoear]] in the south, and the mountainous peninsula of [[Tostep]] to the north-east.
 
 ## History
 
@@ -27,9 +29,11 @@ Snowy in the north and along its west coast. [[Ithoria]] covers most of it, with
 
 ## Notable places
 
-- [[Ithoria]]
-- [[Jovinia]]
-- [[Calindor]]
+- [[Tostep]]
+- [[Ichtar]]
+- [[Kyrith]]
+- [[Cliphetoristu]]
+- [[Thoear]]
 
 ## Events
 
