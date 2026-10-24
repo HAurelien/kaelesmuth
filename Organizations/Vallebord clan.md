@@ -28,7 +28,7 @@ Very recently led by a man named Vallebord Straïs, son of Vallebord Laurem.
 
 ## History
 
-Controls the village of [[Valmar]], between the wood of [[Calindor]] and the [[Frostjárnafjöll]] mountains, and uses it as a foothold against [[Naridor]].
+Controls the village of [[Valmar]], between the wood of [[Calindor wood]] and the [[Frostjárnafjöll]] mountains, and uses it as a foothold against [[Naridor]].
 
 ## Events
 

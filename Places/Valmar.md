@@ -19,7 +19,7 @@ A village held by the [[Vallebord clan]]. Its people are particularly hardened.
 
 ## Geography
 
-Between the wood of [[Calindor]] to the south and the [[Frostjárnafjöll]] mountain chain to the north. The area is rich in ore, and its geography makes it hard to take.
+Between the wood of [[Calindor wood]] to the south and the [[Frostjárnafjöll]] mountain chain to the north. The area is rich in ore, and its geography makes it hard to take.
 
 ## History
 

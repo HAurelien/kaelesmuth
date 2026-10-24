@@ -20,7 +20,9 @@ The main continent of [[Aethernam]]. Lore set here so far comes from two periods
 
 ## Geography
 
-Has a south-eastern peninsula ([[Thoear]]).
+The western of the two large landmasses on the map ![[Aethernam countries 1243.png]]
+
+Desert in the west ([[Cliphetoristu]]), [[Ichtar]] in the north-east, [[Thoear]] in the south, and the mountainous peninsula of [[Tostep]] to the north-east.
 
 ## History
 
@@ -29,16 +31,16 @@ Has a south-eastern peninsula ([[Thoear]]).
 ## Notable places
 
 - [[Tostep]]
+- [[Ichtar]]
+- [[Kyrith]]
 - [[Cliphetoristu]]
 - [[Thoear]]
-- [[Jovinia]]
-- [[Starala]]
 - [[StormHold]]
 - [[Naridor]]
 - [[Sovnar]]
 - [[Valmar]]
 - [[Frostjárnafjöll]]
-- [[Calindor]]
+- [[Calindor wood]]
 - [[Iverald]]
 
 ## Events

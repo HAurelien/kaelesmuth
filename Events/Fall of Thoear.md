@@ -19,7 +19,7 @@ species: []
 related:
   - "[[Tostep]]"
   - "[[Cliphetoristu]]"
-  - "[[Starala]]"
+  - "[[Stalaras Confederation]]"
 timelines:
   - "[[Aethernam main timeline]]"
 after: []
@@ -38,4 +38,4 @@ Cliphetoristu ran an intensive, exhausting war economy for it.
 
 ## Consequences
 
-Thoear is torn apart: its lordships grow under the influence of Tostep and the remnants of the confederation of [[Starala]], the army can no longer hold the hierarchy, and Uril III's legitimacy is wavering. Cliphetoristu is recovering, and its alliance with Tostep is starting to crumble.
+Thoear is torn apart: its lordships grow under the influence of Tostep and the remnants of the confederation of [[Stalaras Confederation]], the army can no longer hold the hierarchy, and Uril III's legitimacy is wavering. Cliphetoristu is recovering, and its alliance with Tostep is starting to crumble.

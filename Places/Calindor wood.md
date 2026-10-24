@@ -1,10 +1,10 @@
 ---
 type: place
 aliases: 
-  - "Confederation of Starala"
+  - "Wood of Calindor"
 planet:
   - "[[Aethernam]]"
-place_type: Confederation
+place_type: Forest
 parent: "[[Aethernam main continent]]"
 owner: 
 from: 
@@ -16,7 +16,7 @@ tags: []
 
 ## Summary
 
-A confederation of which only remnants are left around 1100, in the time of Alexendre X of [[Tostep]]. Those remnants influence the lordships of [[Thoear]].
+A wood south of [[Valmar]], in the age of war. Possibly the same land as the later theocracy of [[Calindor]] (to confirm).
 
 ## Geography
 

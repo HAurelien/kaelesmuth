@@ -1,30 +1,33 @@
 ---
 type: place
-aliases: 
-  - "Wood of Calindor"
+aliases: []
 planet:
   - "[[Aethernam]]"
-place_type: Forest
-parent: "[[Aethernam main continent]]"
+place_type: Theocracy
+parent: "[[Eastern continent]]"
 owner: 
 from: 
 until: 
 calendar: aethernam
-status: idea
+status: draft
 tags: []
 ---
 
 ## Summary
 
-A wood south of [[Valmar]].
+The remnant of a once formidable theocracy, devoted to a long-forgotten deity called the "god of mankind" (presumably the [[God of Humankind]]). Now in decline, torn by internal strife and derision, and undermined by decades of greed and folly.
 
 ## Geography
 
-
+The south-east of the [[Eastern continent]], next to [[Ithoria]].
 
 ## History
 
+### In 1243
 
+The people are heavily exploited, many living almost as slaves under the high priests, who command fortified cities that were once prosperous and are now steeped in fear and distrust of their neighbours.
+
+Its priests control or influence much of [[Havland]]. Its slaves go to [[Tostep]] through [[Ithoria]], which has bought the Calindor provinces that could no longer keep up their production of slaves.
 
 ## Notable places
 

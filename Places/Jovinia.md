@@ -1,21 +1,22 @@
 ---
 type: place
-aliases: []
+aliases: 
+  - "Jovania"
 planet:
   - "[[Aethernam]]"
 place_type: Country
-parent: "[[Aethernam main continent]]"
+parent: "[[Eastern continent]]"
 owner: 
 from: 
 until: 
 calendar: aethernam
-status: idea
+status: draft
 tags: []
 ---
 
 ## Summary
 
-A country known for its transport ships, which [[Tostep]]'s new ships now rival.
+A small country on the north coast of the [[Eastern continent]], with a crucial role in world politics. Renowned for producing the world's most advanced boats, for war and shipping; its traders are among the wealthiest in the world.
 
 ## Geography
 
@@ -23,6 +24,15 @@ A country known for its transport ships, which [[Tostep]]'s new ships now rival.
 
 ## History
 
+### In 1243
+
+Its complex relationship with neighbouring [[Ithoria]] is central: its large navy serves as a buffer whenever tension rises between [[Tostep]] and Ithoria, which covets the rich mountains of its overseas neighbour.
+
+Acting much like mercenaries, its naval forces keep piracy in check and deter less favourable offers from potential adversaries, which gives it diplomatic weight and keeps its waters stable.
+
+### Around 1100 (time of Alexendre X)
+
+Tostep's new transport ships rival Jovinia's.
 
 
 ## Notable places

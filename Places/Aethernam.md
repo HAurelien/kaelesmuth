@@ -14,6 +14,14 @@ wa_id: "1059c8c4-3f3f-4939-a684-45ca458cd15b"
 
 Aethernam is a planet which was mostly populated by [[Human]]. But after The Great Cataclysm, it turned to a pile of dust, and only a few survives in a world cursed by the World Eater [[Arrack]].
 
+## Maps
+
+![[Aethernam map.png]]
+
+Countries in 1243:
+
+![[Aethernam countries 1243.png]]
+
 ## Timeline
 - [[Aethernam main timeline]]
 

@@ -20,9 +20,15 @@ One of the richest countries in the world, known above all for its merchant powe
 
 ## Geography
 
-Its lands in the west hold high-quality wood.
+A mountainous peninsula surrounded by water, north-east of [[Ichtar]]. Its lands in the west hold high-quality wood.
 
 ## History
+
+### In 1243
+
+Like most countries in this world, the kingdom is led by a king, Alexender VII. Allied with [[Ichtar]], it is known as one of the richest in the world, with a blossoming economy yet almost no army: its mountains surrounded by water and the powerful navy of Ichtar make it a natural fortress.
+
+It is also where the reported death rate of slaves is highest: the mines are extremely profitable for their owners but dangerous to work in. [[Ithoria]] covets its rich mountains, and [[Jovinia]]'s navy acts as a buffer between them; slaves from [[Calindor]] reach Tostep through Ithoria.
 
 ### Around 1100 (time of Alexendre X)
 
